@@ -1,9 +1,7 @@
 public class Dalile {
     public static void main(String[] args) {
-        System.out.println("Hello world!!");
+        System.out.println("animal!!");
+        System.out.println("commitoltam valamit!!");
 
-        System.out.println("another one");
-
-        System.out.println("another another one");
     }
 }
